@@ -1,2 +1,3 @@
-# modak-mobile-app
-Mobile app for MODAK - Order creation with customer and admin functionality
+# Project Overview
+
+This project is a mobile application developed using React Native and a backend built with Flask. It aims to provide seamless user experiences and efficient data management.
